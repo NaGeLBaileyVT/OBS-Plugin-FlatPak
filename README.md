@@ -37,11 +37,15 @@ Works!
 
 ## [LocalVocal](https://obsproject.com/forum/resources/localvocal-local-live-captions-translation-on-the-go.1769/)
 
-Works now with some modifications: <https://github.com/royshil/obs-localvocal/pull/303>
+Works!  
+modifications were merged!  
+<https://github.com/royshil/obs-localvocal/pull/303>
 
 ## [Shadertastic](https://obsproject.com/forum/resources/shadertastic.2114/)
 
-Works now with some modications: <https://github.com/xurei/shadertastic/pull/24>
+Works!  
+modications were merged!  
+<https://github.com/xurei/shadertastic/pull/24>
 
 ## [RetroEffects](https://obsproject.com/forum/resources/retro-effects.1972/)
 
@@ -68,6 +72,10 @@ Works!
 Works!
 
 ## Changelog
+
+### 2026-05-06
+
+Updated some plugins. My modifications were merged so no need to pll from my own.
 
 ### 2026-04-16
 
